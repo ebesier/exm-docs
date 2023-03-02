@@ -1,7 +1,9 @@
 API
 ===
 
-.. autosummary::
-   :toctree: generated
+.. _align:
 
-   lumache
+Align
+------------
+
+Docs for align module. 
