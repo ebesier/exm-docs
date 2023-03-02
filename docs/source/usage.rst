@@ -12,6 +12,8 @@ To use exm-toolbox, first install it using pip:
 
    (.venv) $ pip install exm-toolbox
 
+.. _getting_started:
+
 Getting Started
 ----------------
 
