@@ -6,13 +6,13 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To use exm-toolbox, first install it using pip:
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   (.venv) $ pip install exm-toolbox
 
-Creating recipes
+Getting Started
 ----------------
 
 To retrieve a list of random ingredients,
