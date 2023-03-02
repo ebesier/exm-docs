@@ -8,6 +8,9 @@ Alignment
 
 Docs for the alignment module. 
 
+.. automodule:: exm-docs.lumache
+    :members:
+
 .. _puncta-extraction:
 
 Puncta Extraction
