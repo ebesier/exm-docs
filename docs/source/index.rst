@@ -1,7 +1,5 @@
-Welcome to the documentation of ExM Toolbox!
+Welcome to the documentation of our ExM Toolbox!
 ===================================
-
-[description of program]
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
