@@ -1,8 +1,9 @@
 # Configuration file for the Sphinx documentation builder.
 
-!pip install furo
 from sphinx.ext.autosummary import Autosummary
 import sphinx.ext.autosummary
+
+sys.path.insert(0, os.path.abspath("../.."))
 
 # -- Project information
 
