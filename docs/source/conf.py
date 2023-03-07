@@ -1,5 +1,7 @@
 # Configuration file for the Sphinx documentation builder.
 
+pip install furo
+
 # -- Project information
 
 project = 'ExM Toolbox'
