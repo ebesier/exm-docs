@@ -1,5 +1,3 @@
-.. currentmodule:: lumache
-
 API
 ===
 
@@ -10,7 +8,7 @@ Alignment
 
 Docs for the alignment module. 
 
-.. autofunction:: get_random_ingredients
+.. autofunction:: lumache.get_random_ingredients
 
 .. _puncta-extraction:
 
