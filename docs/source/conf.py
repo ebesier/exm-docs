@@ -1,6 +1,8 @@
 # Configuration file for the Sphinx documentation builder.
 
-pip install furo
+!pip install furo
+from sphinx.ext.autosummary import Autosummary
+import sphinx.ext.autosummary
 
 # -- Project information
 
