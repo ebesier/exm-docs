@@ -41,3 +41,9 @@ html_theme = 'furo'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+
+autodoc_inherit_docstrings = True
+autoclass_content = "both"
+autodoc_typehints = "description"
+napoleon_attr_annotations = True
