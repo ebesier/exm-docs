@@ -10,6 +10,8 @@ Docs for the alignment module.
 
 .. autofunction:: lumache.get_random_ingredient
 
+.. autoexception:: lumache.InvalidKindError
+
 .. _puncta-extraction:
 
 Puncta Extraction
